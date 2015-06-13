@@ -1,0 +1,161 @@
+2015-06-13 18:50:05 INFO  App:14 - Hello
+2015-06-13 19:33:36 INFO  App:15 - Hello
+2015-06-13 19:34:24 INFO  App:15 - Hello
+2015-06-13 19:34:44 INFO  App:15 - Hello
+2015-06-13 19:35:03 INFO  App:15 - Hello
+2015-06-13 19:49:57 INFO  App:15 - Hello
+2015-06-13 19:49:57 INFO  GoeuroService:25 - Start hitting query
+2015-06-13 19:49:58 INFO  GoeuroService:28 - Eesponse code: 200
+2015-06-13 19:49:58 ERROR App:19 - Error encountered: JSONObject["_id"] not a string.
+2015-06-13 19:51:15 INFO  App:15 - Hello
+2015-06-13 19:51:15 INFO  GoeuroService:25 - Start hitting query
+2015-06-13 19:51:16 INFO  GoeuroService:28 - Eesponse code: 200
+2015-06-13 19:51:16 ERROR App:19 - Error encountered: JSONObject["latitude"] not a string.
+2015-06-13 19:52:25 INFO  App:15 - Hello
+2015-06-13 19:52:25 INFO  GoeuroService:25 - Start hitting query
+2015-06-13 19:52:26 INFO  GoeuroService:28 - Eesponse code: 200
+2015-06-13 19:53:34 INFO  App:17 - Hello
+2015-06-13 19:53:34 INFO  GoeuroService:25 - Start hitting query
+2015-06-13 19:53:35 INFO  GoeuroService:28 - Eesponse code: 200
+2015-06-13 19:54:56 INFO  App:17 - Hello
+2015-06-13 20:06:49 INFO  App:17 - Hello
+2015-06-13 20:06:49 INFO  GoeuroService:25 - Start hitting query
+2015-06-13 20:06:50 INFO  GoeuroService:28 - Eesponse code: 200
+2015-06-13 20:07:59 INFO  App:17 - Hello
+2015-06-13 20:07:59 INFO  GoeuroService:26 - Start hitting query
+2015-06-13 20:08:00 INFO  GoeuroService:29 - Eesponse code: 200
+2015-06-13 20:22:26 INFO  App:17 - Hello
+2015-06-13 20:22:26 INFO  GoeuroService:27 - Start hitting query
+2015-06-13 20:30:43 INFO  App:19 - Hello
+2015-06-13 20:30:43 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:30:43 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:30:43 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:32:57 INFO  App:19 - Hello
+2015-06-13 20:32:57 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:32:58 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:32:58 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:34:02 INFO  App:19 - Hello
+2015-06-13 20:34:02 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:34:02 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:34:02 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:36:26 INFO  App:24 - Hello
+2015-06-13 20:36:26 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:36:26 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:36:26 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:39:07 INFO  App:19 - Hello
+2015-06-13 20:39:07 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:39:07 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:39:08 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:40:35 INFO  App:19 - Hello
+2015-06-13 20:40:35 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:40:35 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:40:35 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:41:51 INFO  App:19 - Hello
+2015-06-13 20:41:51 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:41:51 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:41:51 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:42:47 INFO  App:19 - Hello
+2015-06-13 20:42:47 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:42:47 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:42:48 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:42:48 ERROR App:28 - Error encountered: java.util.LinkedHashMap cannot be cast to com.azouz.goeuro.model.CityLocation
+2015-06-13 20:44:34 INFO  App:19 - Hello
+2015-06-13 20:44:34 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:44:34 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:44:34 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:44:34 ERROR App:28 - Error encountered: java.util.LinkedHashMap cannot be cast to com.azouz.goeuro.model.CityLocation
+2015-06-13 20:45:05 INFO  App:19 - Hello
+2015-06-13 20:45:05 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:45:05 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:45:06 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:45:48 INFO  App:19 - Hello
+2015-06-13 20:45:48 INFO  GoeuroService:22 - Start hitting query
+2015-06-13 20:45:48 INFO  GoeuroService:26 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:45:48 INFO  GoeuroService:28 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:46:41 INFO  App:19 - Hello
+2015-06-13 20:46:41 INFO  GoeuroService:23 - Start hitting query
+2015-06-13 20:46:41 INFO  GoeuroService:28 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:46:41 INFO  GoeuroService:30 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:47:35 INFO  App:19 - Hello
+2015-06-13 20:47:35 INFO  GoeuroService:23 - Start hitting query
+2015-06-13 20:47:35 INFO  GoeuroService:28 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:47:36 INFO  GoeuroService:30 - Response: [{_id=378980, key=null, name=Helsinki, fullName=Helsinki, Finland, iata_airport_code=null, type=location, country=Finland, geo_position={latitude=60.16952, longitude=24.93545}, locationId=11167, inEurope=true, countryCode=FI, coreCountry=false, distance=null}, {_id=406000, key=null, name=Helsingborg, fullName=Helsingborg, Sweden, iata_airport_code=null, type=location, country=Sweden, geo_position={latitude=56.04673, longitude=12.69437}, locationId=38234, inEurope=true, countryCode=SE, coreCountry=false, distance=null}, {_id=393268, key=null, name=Helmond, fullName=Helmond, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=51.48167, longitude=5.66111}, locationId=25480, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=393266, key=null, name=Hellendoorn, fullName=Hellendoorn, Netherlands, iata_airport_code=null, type=location, country=Netherlands, geo_position={latitude=52.3833333, longitude=6.45}, locationId=25478, inEurope=true, countryCode=NL, coreCountry=true, distance=null}, {_id=314920, key=null, name=Helsinki, fullName=Helsinki (HEL), Finland, iata_airport_code=HEL, type=airport, country=Finland, geo_position={latitude=60.31722, longitude=24.96333}, locationId=null, inEurope=true, countryCode=FI, coreCountry=false, distance=null}]
+2015-06-13 20:49:09 INFO  App:19 - Hello
+2015-06-13 20:49:09 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 20:49:10 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:49:10 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,0.0,0.0, 406000,Helsingborg,location,0.0,0.0, 393268,Helmond,location,0.0,0.0, 393266,Hellendoorn,location,0.0,0.0, 314920,Helsinki,airport,0.0,0.0]
+2015-06-13 20:49:57 INFO  App:20 - Hello
+2015-06-13 20:49:57 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 20:49:57 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:49:57 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,0.0,0.0, 406000,Helsingborg,location,0.0,0.0, 393268,Helmond,location,0.0,0.0, 393266,Hellendoorn,location,0.0,0.0, 314920,Helsinki,airport,0.0,0.0]
+2015-06-13 20:50:19 INFO  App:19 - Hello
+2015-06-13 20:50:19 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 20:50:19 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:50:19 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,0.0,0.0, 406000,Helsingborg,location,0.0,0.0, 393268,Helmond,location,0.0,0.0, 393266,Hellendoorn,location,0.0,0.0, 314920,Helsinki,airport,0.0,0.0]
+2015-06-13 20:56:00 INFO  App:19 - Hello
+2015-06-13 20:56:00 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 20:56:00 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:56:02 ERROR App:28 - Error encountered: No suitable constructor found for type [simple type, class com.azouz.goeuro.model.CityLocation$GEOPosition]: can not instantiate from JSON object (need to add/enable type information?)
+ at [Source: http://api.goeuro.com/api/v2/position/suggest/en/hel; line: 1, column: 155] (through reference chain: java.util.ArrayList[0]->com.azouz.goeuro.model.CityLocation["geo_position"])
+2015-06-13 20:59:03 INFO  App:19 - Hello
+2015-06-13 20:59:03 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 20:59:03 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 20:59:04 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 20:59:04 ERROR App:28 - Error encountered: CSV generator does not support Object values for properties
+2015-06-13 21:01:07 INFO  App:19 - Hello
+2015-06-13 21:01:07 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:01:07 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:01:08 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:01:08 ERROR App:28 - Error encountered: CSV generator does not support Object values for properties
+2015-06-13 21:01:50 INFO  App:19 - Hello
+2015-06-13 21:01:50 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:01:50 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:01:51 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:01:51 ERROR App:28 - Error encountered: CSV generator does not support Object values for properties
+2015-06-13 21:02:06 INFO  App:19 - Hello
+2015-06-13 21:02:06 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:02:07 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:02:08 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:02:08 ERROR App:28 - Error encountered: CSV generator does not support Object values for properties
+2015-06-13 21:03:27 INFO  App:19 - Hello
+2015-06-13 21:03:27 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:03:27 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:03:28 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:03:28 ERROR App:28 - Error encountered: CSV generator does not support Object values for properties
+2015-06-13 21:30:54 INFO  App:17 - Hello
+2015-06-13 21:30:54 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:30:54 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:31:04 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:36:07 INFO  App:20 - Hello
+2015-06-13 21:36:07 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:36:07 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:36:08 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:42:20 INFO  App:19 - Hello
+2015-06-13 21:42:20 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:42:20 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:42:20 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:42:20 INFO  CSVWriter:28 - Write CSV file on this path: output13-06-2015 21:42:20
+2015-06-13 21:42:20 INFO  CSVWriter:35 - Finish Writing file
+2015-06-13 21:42:21 INFO  CSVWriter:36 - Check output csv on file: output13-06-2015 21:42:20
+2015-06-13 21:43:12 INFO  App:19 - Hello
+2015-06-13 21:43:12 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:43:12 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:43:13 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:43:13 INFO  CSVWriter:28 - Write CSV file on this path: output/13-06-2015 21:43:13
+2015-06-13 21:43:13 INFO  CSVWriter:35 - Finish Writing file
+2015-06-13 21:43:13 INFO  CSVWriter:36 - Check output csv on file: output/13-06-2015 21:43:13
+2015-06-13 21:43:54 INFO  App:19 - Hello
+2015-06-13 21:43:54 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:43:54 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:43:57 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:44:07 INFO  App:19 - Hello
+2015-06-13 21:44:07 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:44:07 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:44:08 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:45:45 INFO  App:19 - Hello
+2015-06-13 21:45:45 INFO  GoeuroService:24 - Start hitting query
+2015-06-13 21:45:46 INFO  GoeuroService:29 - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 21:45:47 INFO  GoeuroService:31 - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 21:45:47 INFO  CSVWriter:28 - Write CSV file on this path: output/13-06-2015 21:45:47.csv
+2015-06-13 21:45:47 INFO  CSVWriter:35 - Finish Writing file
+2015-06-13 21:45:47 INFO  CSVWriter:36 - Check output csv on file: output/13-06-2015 21:45:47.csv
