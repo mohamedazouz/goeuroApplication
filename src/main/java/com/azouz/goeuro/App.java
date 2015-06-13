@@ -17,12 +17,15 @@ public class App {
     public static void main(String[] args) {
         logger.info("Hello");
         try {
-            if (args.length > 1) {
+            if (args.length >= 1) {
                 String query = args[0];
                 logger.info("Query: " + query);
                 List<CityLocation> cities = GoeuroService.cityLocation(query);
-                System.out.println(cities);
-                CSVWriter.writeCSV("output", cities);
+                if (cities.size() > 0) {
+                    CSVWriter.writeCSV("output", cities);
+                } else {
+                    logger.warn("There is no output found");
+                }
                 logger.info("Application Finished Sucessfully");
             } else {
                 logger.error("Invalid input: Please check your inputs");

@@ -165,3 +165,34 @@
 2015-06-13 21:59:24 ERROR App:28 - Invalid input: Please check your inputs
 2015-06-13 21:59:56 INFO  - Hello
 2015-06-13 21:59:56 ERROR - Invalid input: Please check your inputs
+2015-06-13 22:17:05 INFO  - Hello
+2015-06-13 22:17:05 INFO  - Query: hello
+2015-06-13 22:17:05 INFO  - Start hitting query
+2015-06-13 22:17:05 INFO  - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hello
+2015-06-13 22:17:05 INFO  - Response: []
+2015-06-13 22:17:05 INFO  - Write CSV file on this path: output/13-06-2015 22:17:05.csv
+2015-06-13 22:17:05 INFO  - Finish Writing file
+2015-06-13 22:17:05 INFO  - Check output csv on file: output/13-06-2015 22:17:05.csv
+2015-06-13 22:17:05 INFO  - Application Finished Sucessfully
+2015-06-13 22:17:11 INFO  - Hello
+2015-06-13 22:17:11 INFO  - Query: hel
+2015-06-13 22:17:11 INFO  - Start hitting query
+2015-06-13 22:17:11 INFO  - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/hel
+2015-06-13 22:17:11 INFO  - Response: [378980,Helsinki,location,60.16952,24.93545, 406000,Helsingborg,location,56.04673,12.69437, 393268,Helmond,location,51.48167,5.66111, 393266,Hellendoorn,location,52.3833333,6.45, 314920,Helsinki,airport,60.31722,24.96333]
+2015-06-13 22:17:11 INFO  - Write CSV file on this path: output/13-06-2015 22:17:11.csv
+2015-06-13 22:17:11 INFO  - Finish Writing file
+2015-06-13 22:17:11 INFO  - Check output csv on file: output/13-06-2015 22:17:11.csv
+2015-06-13 22:17:11 INFO  - Application Finished Sucessfully
+2015-06-13 22:19:01 INFO  - Hello
+2015-06-13 22:19:01 INFO  - Query: helllo
+2015-06-13 22:19:01 INFO  - Start hitting query
+2015-06-13 22:19:01 INFO  - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/helllo
+2015-06-13 22:19:01 INFO  - Response: []
+2015-06-13 22:19:01 WARN  - There is no output found
+2015-06-13 22:20:54 INFO  - Hello
+2015-06-13 22:20:54 INFO  - Query: helllo
+2015-06-13 22:20:54 INFO  - Start hitting query
+2015-06-13 22:20:54 INFO  - Call URL: http://api.goeuro.com/api/v2/position/suggest/en/helllo
+2015-06-13 22:20:55 INFO  - Response: []
+2015-06-13 22:20:55 WARN  - There is no output found
+2015-06-13 22:20:55 INFO  - Application Finished Sucessfully
