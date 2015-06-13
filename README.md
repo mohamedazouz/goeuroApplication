@@ -54,5 +54,5 @@
   
 
 # Application Tools
-- It implmented using Java 1.7 Using maven
+- It implmented using Java 1.7 Using maven with other opensource libraries ( Jackson, log4j)
 
