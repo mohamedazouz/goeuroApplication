@@ -51,8 +51,8 @@
 - Create logs directory [To store logs]
 - Execute the goEuroApp.jar as following:
   - java -jar goEuroApp.jar "STRING" 
-  - [While STRING is any query you need].
-  - 
+  
+
 # Application Tools
 - It implmented using Java 1.7 Using maven
 
