@@ -159,3 +159,9 @@
 2015-06-13 21:45:47 INFO  CSVWriter:28 - Write CSV file on this path: output/13-06-2015 21:45:47.csv
 2015-06-13 21:45:47 INFO  CSVWriter:35 - Finish Writing file
 2015-06-13 21:45:47 INFO  CSVWriter:36 - Check output csv on file: output/13-06-2015 21:45:47.csv
+2015-06-13 21:58:40 INFO  App:18 - Hello
+2015-06-13 21:58:40 INFO  App:28 - Invalid input: Please check your inputs
+2015-06-13 21:59:24 INFO  App:18 - Hello
+2015-06-13 21:59:24 ERROR App:28 - Invalid input: Please check your inputs
+2015-06-13 21:59:56 INFO  - Hello
+2015-06-13 21:59:56 ERROR - Invalid input: Please check your inputs

@@ -17,13 +17,19 @@ public class App {
     public static void main(String[] args) {
         logger.info("Hello");
         try {
-            List<CityLocation> cities = GoeuroService.cityLocation("hel");
-            System.out.println(cities);
-            CSVWriter.writeCSV("output", cities);
-            logger.info("Application Finished Sucessfully");
+            if (args.length > 1) {
+                String query = args[0];
+                logger.info("Query: " + query);
+                List<CityLocation> cities = GoeuroService.cityLocation(query);
+                System.out.println(cities);
+                CSVWriter.writeCSV("output", cities);
+                logger.info("Application Finished Sucessfully");
+            } else {
+                logger.error("Invalid input: Please check your inputs");
+            }
         } catch (IOException e) {
             logger.error("Error encountered: " + e.getMessage());
-            logger.info("Application Finished with error please check the logs");
+            logger.error("Application finished with errors");
         }
     }
 }
